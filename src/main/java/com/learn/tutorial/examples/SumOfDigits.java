@@ -16,7 +16,7 @@ Przykłady:
 - 123 -> 6
 - 9005 -> 14
 - 7 -> 7
-
+//
 Wskazówki:
 - Możesz użyć operacji % 10 i / 10, albo zamienić liczbę na tekst i iterować po znakach.
 - Pamiętaj o przypadkach brzegowych (bardzo duże liczby, zera w środku).
